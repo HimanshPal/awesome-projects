@@ -1,4 +1,4 @@
 # awesome-projects
 
-http://vitess.io/
-http://www.memsql.com/
+* http://vitess.io/
+* http://www.memsql.com/
